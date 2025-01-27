@@ -1,6 +1,5 @@
 {
-    "page": 2,
-    "list": [
+    "movies": [
         {
             "id": "1035048",
             "imageURL": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sLJqbUymYkLvoNt4E7DG2E4ia6y.jpg",
@@ -22,5 +21,6 @@
             "summary": "A fading celebrity decides to use a black market drug, a cell-replicating substance that temporarily creates a younger, better version of herself.",
             "rating": 7.2
         }
-    ]
+    ],
+    "hasMore": false
 }

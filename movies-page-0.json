@@ -1,6 +1,5 @@
 {
-    "page": 0,
-    "list": [
+    "movies": [
         {
             "id": "1005331",
             "imageURL": "https: //image.tmdb.org/t/p/w600_and_h900_bestv2/sjMN7DRi4sGiledsmllEw5HJjPy.jpg",
@@ -96,5 +95,6 @@
                 "Action"
             ]
         }
-    ]
+    ],
+    "hasMore": true
 }

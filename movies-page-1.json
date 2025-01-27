@@ -1,6 +1,5 @@
 {
-    "page": 1,
-    "list": [
+    "movies": [
         {
             "id": "1156593",
             "imageURL": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6qld2YxAO9gdEblo0rsEb8BcYKO.jpg",
@@ -71,5 +70,6 @@
             "summary": "In the land of Oz, ostracized and misunderstood green-skinned Elphaba is forced to share a room with the popular aristocrat Glinda at Shiz University, and the two's unlikely friendship is tested as they begin to fulfill their respective destinies as Glinda the Good and the Wicked Witch of the West.",
             "rating": 7.4
         }
-    ]
+    ],
+    "hasMore": true
 }
