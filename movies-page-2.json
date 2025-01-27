@@ -1,0 +1,26 @@
+{
+    "page": 2,
+    "list": [
+        {
+            "id": "1035048",
+            "imageURL": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sLJqbUymYkLvoNt4E7DG2E4ia6y.jpg",
+            "title": "Elevation",
+            "summary": "A single father and two women venture from the safety of their homes to face monstrous creatures to save the life of a young boy.",
+            "rating": 6.3
+        },
+        {
+            "id": "1276945",
+            "imageURL": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8pwdnL3pEISIN1EGmwZzU6hpNVk.jpg",
+            "title": "Ferry 2",
+            "summary": "After losing his drug empire, Ferry Bouman has found a measure of peace away from Brabant's criminal underworld — until his past catches up to him.",
+            "rating": 5.7
+        },
+        {
+            "id": "933260",
+            "imageURL": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lqoMzCcZYEFK729d6qzt349fB4o.jpg",
+            "title": "The Substance",
+            "summary": "A fading celebrity decides to use a black market drug, a cell-replicating substance that temporarily creates a younger, better version of herself.",
+            "rating": 7.2
+        }
+    ]
+}

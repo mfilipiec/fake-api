@@ -1,0 +1,75 @@
+{
+    "page": 1,
+    "list": [
+        {
+            "id": "1156593",
+            "imageURL": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6qld2YxAO9gdEblo0rsEb8BcYKO.jpg",
+            "title": "Your Fault",
+            "summary": "The love between Noah and Nick seems unwavering despite their parents' attempts to separate them. But his job and her entry into college open up their lives to new relationships that will shake the foundations of both their relationship and the Leister family itself.",
+            "rating": 7.2
+        },
+        {
+            "id": "558449",
+            "imageURL": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/q6mkkb5XU6ERF7xP9nAjnNq9n7V.jpg",
+            "title": "Gladiator II",
+            "summary": "Years after witnessing the death of the revered hero Maximus at the hands of his uncle, Lucius is forced to enter the Colosseum after his home is conquered by the tyrannical Emperors who now lead Rome with an iron fist. With rage in his heart and the future of the Empire at stake, Lucius must look to his past to find strength and honor to return the glory of Rome to its people.",
+            "rating": 6.8
+        },
+        {
+            "id": "845781",
+            "imageURL": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dpskAcm71w5v8zQ8RmPmJiP31Om.jpg",
+            "title": "Red One",
+            "summary": "After Santa Claus (codename: Red One) is kidnapped, the North Pole's Head of Security must team up with the world's most infamous tracker in a globe-trotting, action-packed mission to save Christmas.",
+            "rating": 7
+        },
+        {
+            "id": "939243",
+            "imageURL": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mubt4bnVfpJ5lBMq93DidEuMkJr.jpg",
+            "title": "Sonic the Hedgehog 3",
+            "summary": "Sonic, Knuckles, and Tails reunite against a powerful new adversary, Shadow, a mysterious villain with powers unlike anything they have faced before. With their abilities outmatched in every way, Team Sonic must seek out an unlikely alliance in hopes of stopping Shadow and protecting the planet.",
+            "rating": 7.7
+        },
+        {
+            "id": "912649",
+            "imageURL": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aosm8NMQ3UyoBVpSxyimorCQykC.jpg",
+            "title": "Venom: The Last Dance",
+            "summary": "Eddie and Venom are on the run. Hunted by both of their worlds and with the net closing in, the duo are forced into a devastating decision that will bring the curtains down on Venom and Eddie's last dance.",
+            "rating": 6.8
+        },
+        {
+            "id": "1241982",
+            "imageURL": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tElnmtQ6yz1PjN1kePNl8yMSb59.jpg",
+            "title": "Moana 2",
+            "summary": "After receiving an unexpected call from her wayfinding ancestors, Moana journeys alongside Maui and a new crew to the far seas of Oceania and into dangerous, long-lost waters for an adventure unlike anything she's ever faced.",
+            "rating": 7
+        },
+        {
+            "id": "762509",
+            "imageURL": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oHPoF0Gzu8xwK4CtdXDaWdcuZxZ.jpg",
+            "title": "Mufasa: The Lion King",
+            "summary": "Told in flashbacks, Mufasa is an orphaned cub, lost and alone until he meets a sympathetic lion named Taka—the heir to a royal bloodline. The chance meeting sets in motion a journey of misfits searching for their destiny and working together to evade a threatening and deadly foe.",
+            "rating": 7.3
+        },
+        {
+            "id": "1010581",
+            "imageURL": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/w46Vw536HwNnEzOa7J24YH9DPRS.jpg",
+            "title": "My Fault",
+            "summary": "Noah must leave her city, boyfriend, and friends to move into William Leister's mansion, the flashy and wealthy husband of her mother Rafaela. As a proud and independent 17 year old, Noah resists living in a mansion surrounded by luxury. However, it is there where she meets Nick, her new stepbrother, and the clash of their strong personalities becomes evident from the very beginning.",
+            "rating": 7.9
+        },
+        {
+            "id": "1043905",
+            "imageURL": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3O3qSGmjRGc10hMwFul8WDxKE5t.jpg",
+            "title": "Dirty Angels",
+            "summary": "During the United States' 2021 withdrawal from Afghanistan, a group of female soldiers posing as medical relief are sent back in to rescue a group of kidnapped teenagers caught between ISIS and the Taliban.",
+            "rating": 6.9
+        },
+        {
+            "id": "402431",
+            "imageURL": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xDGbZ0JJ3mYaGKy4Nzd9Kph6M9L.jpg",
+            "title": "Wicked",
+            "summary": "In the land of Oz, ostracized and misunderstood green-skinned Elphaba is forced to share a room with the popular aristocrat Glinda at Shiz University, and the two's unlikely friendship is tested as they begin to fulfill their respective destinies as Glinda the Good and the Wicked Witch of the West.",
+            "rating": 7.4
+        }
+    ]
+}

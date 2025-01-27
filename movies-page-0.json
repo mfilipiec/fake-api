@@ -1,0 +1,100 @@
+{
+    "page": 0,
+    "list": [
+        {
+            "id": "1005331",
+            "imageURL": "https: //image.tmdb.org/t/p/w600_and_h900_bestv2/sjMN7DRi4sGiledsmllEw5HJjPy.jpg",
+            "title": "Carry-On",
+            "summary": "An airport security officer races to outsmart a mysterious traveler forcing him to let a dangerous item slip onto a Christmas Eve flight.",
+            "rating": 6.9
+        },
+        {
+            "id": "35sa23f",
+            "imageURL": "https: //image.tmdb.org/t/p/w600_and_h900_bestv2/bR8ISy1O9XQxqiy0fQFw2BX72RQ.jpg",
+            "title": "Avengers: Endgame",
+            "summary": "After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos actions and restore order to the universe once and for all, no matter what consequences may be in store.",
+            "rating": 8.1
+        },
+        {
+            "id": "a2da312",
+            "imageURL": "https: //image.tmdb.org/t/p/w600_and_h900_bestv2/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg",
+            "title": "Star Wars",
+            "summary": "Princess Leia is captured and held hostage by the evil Imperial forces in their effort to take over the galactic Empire. Venturesome Luke Skywalker and dashing captain Han Solo team together with the loveable robot duo R2-D2 and C-3PO to rescue the beautiful princess and restore peace and justice in the Empire.",
+            "rating": 8.2
+        },
+        {
+            "id": "323edfj",
+            "imageURL": "https: //www.themoviedb.org/t/p/w600_and_h900_bestv2/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg",
+            "title": "Deadpool & Wolverine",
+            "summary": "A listless Wade Wilson toils away in civilian life with his days as the morally flexible mercenary, Deadpool, behind him. But when his homeworld faces an existential threat, Wade must reluctantly suit-up again with an even more reluctant Wolverine.",
+            "rating": 7.7
+        },
+        {
+            "id": "839033",
+            "imageURL": "https: //image.tmdb.org/t/p/w600_and_h900_bestv2/hE9SAMyMSUGAPsHUGdyl6irv11v.jpg",
+            "title": "The Lord of the Rings: The War of the Rohirrim",
+            "summary": "183 years before the events chronicled in the original trilogy, a sudden attack by Wulf, a clever and ruthless Dunlending lord seeking vengeance for the death of his father, forces Helm Hammerhand and his people to make a daring last stand in the ancient stronghold of the Hornburg. Finding herself in an increasingly desperate situation, Héra, the daughter of Helm, must summon the will to lead the resistance against a deadly enemy intent on their total destruction.",
+            "rating": 6.8
+        },
+        {
+            "id": "g242acd",
+            "imageURL": "https: //www.themoviedb.org/t/p/w600_and_h900_bestv2/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
+            "title": "Avengers: Infinity War",
+            "summary": "As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.",
+            "rating": 8.2
+        },
+        {
+            "id": "1100782",
+            "imageURL": "https: //image.tmdb.org/t/p/w600_and_h900_bestv2/ht8Uv9QPv9y7K0RvUyJIaXOZTfd.jpg",
+            "title": "Smile 2",
+            "summary": "About to embark on a new world tour, global pop sensation Skye Riley begins experiencing increasingly terrifying and inexplicable events. Overwhelmed by the escalating horrors and the pressures of fame, Skye is forced to face her dark past to regain control of her life before it spirals out of control.",
+            "rating": 6.6,
+            "release_date": "2024-10-16",
+            "genres": [
+                "Horror",
+                "Mystery"
+            ]
+        },
+        {
+            "id": "772",
+            "imageURL": "https: //image.tmdb.org/t/p/w600_and_h900_bestv2/uuitWHpJwxD1wruFl2nZHIb4UGN.jpg",
+            "title": "Home Alone 2: Lost in New York",
+            "summary": "Instead of flying to Florida with his folks, Kevin ends up alone in New York, where he gets a hotel room with his dad's credit card—despite problems from a clerk and meddling bellboy. But when Kevin runs into his old nemeses, the Wet Bandits, he's determined to foil their plans to rob a toy store on Christmas Eve.",
+            "rating": 6.8,
+            "release_date": "1992-11-15",
+            "genres": [
+                "Comedy",
+                "Family",
+                "Adventure"
+            ]
+        },
+        {
+            "id": "698687",
+            "imageURL": "https: //image.tmdb.org/t/p/w600_and_h900_bestv2/iRCgqpdVE4wyLQvGYU3ZP7pAtUc.jpg",
+            "title": "Transformers One",
+            "summary": "The untold origin story of Optimus Prime and Megatron, better known as sworn enemies, but once were friends bonded like brothers who changed the fate of Cybertron forever.",
+            "rating": 8.1,
+            "release_date": "2024-09-11",
+            "genres": [
+                "Animation",
+                "Science Fiction",
+                "Adventure",
+                "Family"
+            ]
+        },
+        {
+            "id": "1299652",
+            "imageURL": "https: //image.tmdb.org/t/p/w600_and_h900_bestv2/wUSXPLD3tLWdesY7nYwUitYRI50.jpg",
+            "title": "Watchmen: Chapter II",
+            "summary": "Suspicious of the events ensnaring their former colleagues, Nite Owl and Silk Spectre are spurred out of retirement to investigate. As they grapple with personal ethics, inner demons and a society turned against them, they race the clock to uncover a deepening plot that might trigger global nuclear war.",
+            "rating": 7.5,
+            "release_date": "2024-11-25",
+            "genres": [
+                "Animation",
+                "Mystery",
+                "Science Fiction",
+                "Action"
+            ]
+        }
+    ]
+}
